@@ -24,11 +24,11 @@ Aqui pode entrar códigos do prograga
 		$p3 = new Professor();
 		$p4 = new Funcionario();
 
-		$p2->setNome("Marcelo");
-		$p2->setIdade(42);
+		$p2->setNome("Otavio");
+		$p2->setIdade(32);
 		$p2->setSexo("M");
-		$p2->setMatr(2117235);
-		$p2->setCurso("Sistemas da informação");
+		$p2->setMatr(12345);
+		$p2->setCurso("Biologo");
 
 		//$p2->cancelarMatr();
 
